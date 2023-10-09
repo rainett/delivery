@@ -1,0 +1,8 @@
+server.port: 8080
+
+spring.datasource:
+  url: jdbc:postgresql://localhost:5432/delivery_db
+  username: postgres
+  password: lockheed
+  driver-class-name: org.postgresql.Driver
+
